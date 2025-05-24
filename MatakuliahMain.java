@@ -20,5 +20,6 @@ public class MatakuliahMain {
     TotalSKS = mkl.sks + mk2.sks + mk3.sks;
     IPK = TotalNilailndexSKS / TotalSKS;
     System.out.printf("IPK : %.2f", IPK);
+    System.out.println("");
   }
 }
